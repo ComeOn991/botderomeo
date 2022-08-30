@@ -23,7 +23,7 @@
 - [![Run on Repl.it](https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ)
 - [![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/E4idBD9jqmyj)
 - [![Wiki](https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22)](https://github.com/lyfe00011/whatsapp-bot/wiki/)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeqanpx&repo=Queen_Jennifer&theme=midnight-purple)](https://github.com/AiDarkEzio/WhatsBot-V2)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidarkezio&repo=WhatsBot-V2&theme=midnight-purple)](https://github.com/AiDarkEzio/WhatsBot-V2)
 
 ### Simple Method
 
