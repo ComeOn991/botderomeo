@@ -8,7 +8,7 @@
 
 ## What is Whats Bot?
 
-**Whats bot,** is a WhatsApp bot written by [Ai Dark Ezio](https://github.com/AiDarkEzio). Does not log into your account It is written on WhatsApp Web API.
+- **Whats bot,** is a WhatsApp bot written by [Ai Dark Ezio](https://github.com/AiDarkEzio). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 
