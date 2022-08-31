@@ -48,4 +48,4 @@
 - [`DGXeon`](https://github.com/DGXeon)
 - [`AflahXrd`](https://github.com/nexusNw)
 
-### License: [MIT]2022
+### License: MIT-2022
