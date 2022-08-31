@@ -22,6 +22,21 @@ module.exports = {
     banChat: "", // defult: "The bot was banned in this group, please contact the owner to unban",
   },
   setting: {
-    blockchat: [], // Your Jids
+    blockchat: [], // Your block chat Jids
+  },
+  auto: {
+    chat: {
+      group: false, // Chat Bot In Group | u can set true or false
+      inbox: false, // chat bot in inbox | u can set true or false
+    },
+    reply: {
+      sticker: false, // Boolean | ===== It not created now ======
+      audio: false, // Boolean | ===== It not created now ======
+    },
+    presence: {
+      is: false, // U Can on or off this () | u can set true or false
+      value: "typing", // It has two types | u can set 'recoding' or 'typing'
+    },
+    read: false, // Boolean | ===== It not created now ======
   },
 };

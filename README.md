@@ -12,7 +12,7 @@
 
 ## Setup
 
-1. Click [SCAN](https://replit.com/) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App. ``Qr lInk Is Creating``
+1. Click [SCAN](https://replit.com/@Subadrabro/WhatsBot-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step ().
 3. Fork Repo && Replase Session.
 4. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
@@ -27,7 +27,7 @@
 
 ### Simple Method
 
-- [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/) ``Qr lInk Is Creating``
+- [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://replit.com/@Subadrabro/WhatsBot-QR?v=1)
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
 
 ## Languages
@@ -42,7 +42,8 @@
 
 ## Thanks To
 
-- [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+- [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys 'main lib')
+- [`Dark Ezio`](https://github.com/Alien-Alfa 'Cerater')
 - [`Alien-Alfa`](https://github.com/Alien-Alfa)
 - [`DGXeon`](https://github.com/DGXeon)
 - [`AflahXrd`](https://github.com/nexusNw)
