@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GojoMedia/D_E-DPC.jpg" alt="ADE" width="350" high="350" border="5"/>
 </p>
 
-- WhatsApp Using Lib Baileys Multi Device Private Bot.
+- WhatsApp Bot Using Lib Baileys Multi Device Public - Makes it easy and fun to use WhatsApp. Also user bot for WhatsApp. This is Public Bot. Made By @AiDarkEzio.
 
 ## What is Whats Bot?
 
